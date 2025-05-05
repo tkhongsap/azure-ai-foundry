@@ -32,8 +32,6 @@ response = client.responses.create(
     ],
     temperature=1.0,
     top_p=1.0,
-    frequency_penalty=0.0,
-    presence_penalty=0.0,
     max_output_tokens=4000
 )
 
