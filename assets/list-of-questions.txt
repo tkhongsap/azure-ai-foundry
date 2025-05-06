@@ -1,0 +1,10 @@
+question 1: I am going to Paris, what should I see?
+question 2: What are the best practices for machine learning model deployment?
+question 3: Can you explain quantum computing in simple terms?
+question 4: How do I improve my public speaking skills?
+question 5: What are the most effective strategies for learning a new language?
+question 6: What should I know before starting a small business?
+question 7: How does climate change affect biodiversity?
+question 8: What are the major differences between artificial intelligence and machine learning?
+question 9: What are some healthy meal prep ideas for a busy week?
+question 10: How can I build a personal financial plan?
